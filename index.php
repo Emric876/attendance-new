@@ -16,7 +16,7 @@
         - Email Address
         - Contact Number
      -->
-    <h1 class="text-center">VTDI 2019 Course Selection Form </h1>
+    <h1 class="text-center">VTDI 2019 Course Selection </h1>
     
     <form method="post" action="success.php">
         <div class="form-group">
