@@ -16,7 +16,7 @@
             $_SESSION['userid'] = $result['id'];
             header("Location: viewrecords.php");
         }
-    }
+    }   
 ?>
 
 <h1 class="text-center"><?php echo $title ?> </h1>
