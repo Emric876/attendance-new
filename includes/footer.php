@@ -1,7 +1,7 @@
     
     
         <div id="footer">
-            <?php echo 'Copyright POWERHOUSE PRODUCTIONS 20' . date('y'); ?>
+            <?php echo 'Copyright PowerHouse Management Services 20' . date('y'); ?>
         </div>
     </div>
 <!-- Optional JavaScript -->
